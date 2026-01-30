@@ -1,0 +1,36 @@
+commit bc79ad8ac7247ff4a4502c7d72914e41702492cd
+Merge: af97b05 7633263
+Author: cl3595 <carterlim360@gmail.com>
+Date:   Fri Jan 30 11:01:35 2026 -0800
+
+    Resolved the merge conflict between main and index-fix branches
+
+commit 763326373e066cc7f6144ef554abe3b2483a099e
+Author: cl3595 <carterlim360@gmail.com>
+Date:   Fri Jan 30 10:58:19 2026 -0800
+
+    Edited index.html with favorite game
+
+commit af97b05bd86f99d26b559389f618bf937a2084d4
+Author: cl3595 <carterlim360@gmail.com>
+Date:   Fri Jan 30 10:56:52 2026 -0800
+
+    Edited index.html with favorite food
+
+commit a841d2b4aa777e46c09039634724a66f93877428
+Author: cl3595 <carterlim360@gmail.com>
+Date:   Fri Jan 30 10:53:45 2026 -0800
+
+    Added README to describe the project
+
+commit 71a2ac4a3e92bb4b87141f213a673d06041c1576
+Author: cl3595 <carterlim360@gmail.com>
+Date:   Fri Jan 30 10:44:23 2026 -0800
+
+    Filled in the blanks to index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
